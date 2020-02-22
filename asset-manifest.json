@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/jsonplaceholder-api/static/css/main.be20950a.chunk.css",
+    "main.js": "/jsonplaceholder-api/static/js/main.958695b5.chunk.js",
+    "main.js.map": "/jsonplaceholder-api/static/js/main.958695b5.chunk.js.map",
+    "runtime-main.js": "/jsonplaceholder-api/static/js/runtime-main.ac2b8e81.js",
+    "runtime-main.js.map": "/jsonplaceholder-api/static/js/runtime-main.ac2b8e81.js.map",
+    "static/css/2.c6250e3a.chunk.css": "/jsonplaceholder-api/static/css/2.c6250e3a.chunk.css",
+    "static/js/2.ab6e7fbe.chunk.js": "/jsonplaceholder-api/static/js/2.ab6e7fbe.chunk.js",
+    "static/js/2.ab6e7fbe.chunk.js.map": "/jsonplaceholder-api/static/js/2.ab6e7fbe.chunk.js.map",
+    "index.html": "/jsonplaceholder-api/index.html",
+    "precache-manifest.21543921d519dd0b417e4e157b2aa077.js": "/jsonplaceholder-api/precache-manifest.21543921d519dd0b417e4e157b2aa077.js",
+    "service-worker.js": "/jsonplaceholder-api/service-worker.js",
+    "static/css/2.c6250e3a.chunk.css.map": "/jsonplaceholder-api/static/css/2.c6250e3a.chunk.css.map",
+    "static/css/main.be20950a.chunk.css.map": "/jsonplaceholder-api/static/css/main.be20950a.chunk.css.map",
+    "static/js/2.ab6e7fbe.chunk.js.LICENSE.txt": "/jsonplaceholder-api/static/js/2.ab6e7fbe.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ac2b8e81.js",
+    "static/css/2.c6250e3a.chunk.css",
+    "static/js/2.ab6e7fbe.chunk.js",
+    "static/css/main.be20950a.chunk.css",
+    "static/js/main.958695b5.chunk.js"
+  ]
+}
