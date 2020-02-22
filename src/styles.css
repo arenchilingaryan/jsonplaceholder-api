@@ -1,0 +1,35 @@
+.App {
+  font-family: 'Poppins', ;
+  text-align: center;
+}
+
+ .list-group-item {
+    display: grid;
+    grid-template-columns: 1fr;
+}
+.list-group-item:hover {
+  background-color: #ccc;
+  cursor: pointer;
+}
+
+.infoPanel {
+  border:1px solid #ccc;
+  padding: 30px;
+  height: 500px;
+  background-color: rgba(0, 0, 0, .1);
+}
+b{
+  padding: 10px;
+}
+
+.gridPanel {
+  display: grid;
+  grid-template-columns: 45% 45%;
+  grid-gap: 2em;
+}
+
+@media(max-width:768px) {
+  .gridPanel {
+    grid-template-columns: 1fr;
+  }
+}
